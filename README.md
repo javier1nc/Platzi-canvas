@@ -4,7 +4,7 @@
 
 ## Bienvenido! 👋
 
-Vamos a dibujar en HTML, para esto usamos la etiqueta
+Vamos a dibujar en HTML, para esto usamos la etiqueta canvas
 
 Para dibujar usamos JS para darle las instrucciones y los canvas funcionan con coordenadas
 
